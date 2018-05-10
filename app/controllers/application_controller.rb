@@ -10,4 +10,9 @@ class ApplicationController < ActionController::Base
   def bye
   	render html: "Good byee!"
   end
+
+  def users
+  	redirect_to users_path
+  end
+
 end
