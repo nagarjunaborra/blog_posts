@@ -1,4 +1,4 @@
-#Sample Blog Posts application
+# Ruby on Rails sample Blog Posts application
 
 ## Getting started
 
